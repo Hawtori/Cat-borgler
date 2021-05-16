@@ -9,4 +9,4 @@ Check out the submission page to download and play here: [Nyangeon](https://hawt
 |------|--------|
 | YaySushi | github.com/YaySushi |
 | E Von K | github.com/Jannisaries |
-| Avnapurna | https://github.com/Areichao |
+| Avnapurna | github.com/Areichao |
