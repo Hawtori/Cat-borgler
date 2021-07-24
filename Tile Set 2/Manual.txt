@@ -1,0 +1,23 @@
+
+
+The "For" series (For Bottom Left.png, For Bottom Right.png, et cetera):
+	Can be walked on by the player
+	Makes the world feel 3D
+
+
+The "Cast" series (S Corner (CAST System).png, C Corner (CAST System).png, et cetera):
+	Is to shore up problems in the uniformity of the core 9 tiles
+
+
+The "Alternative" series (Alternative (For Bottom Center).png, et cetera):
+	Is for flare
+	Add whenever you want
+
+
+The Floor.png:
+	Is to be walked upon
+	I'm assuming that hallways with be 2 tiles wide or more - you don't have to do that though
+
+
+The Player Spawn:
+	Where the Player spawns
